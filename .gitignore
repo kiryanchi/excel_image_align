@@ -3,3 +3,4 @@ my_venv/
 *.spec
 test.py
 .DS_Store
+Images/
