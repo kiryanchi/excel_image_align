@@ -1,0 +1,5 @@
+my_venv/
+*.xlsx
+*.spec
+test.py
+.DS_Store
